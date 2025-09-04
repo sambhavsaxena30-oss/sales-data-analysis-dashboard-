@@ -32,7 +32,3 @@ Bootstrap – Clean UI
 3) Grouping and plotting real insights
 4) Structuring a simple data dashboard end-to-end
 5) Making data analysis interactive and useful
-
-Grouping and plotting real insights
-Structuring a simple data dashboard end-to-end
-Making data analysis interactive and useful
